@@ -1,0 +1,37 @@
+name: rk
+description: A new flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+   - Assets/home.png
+   - Assets/temperature5.png
+   - Assets/tianqi.png
+   - Assets/tianqi2.png
+   - Assets/all.png
+   - Assets/menu.png
+   - Assets/device.png
+   - Assets/device_01.png
+   - Assets/device_02.png
+   - Assets/device_03.png
+   - Assets/device-delete1.png
+   - Assets/device-delete2.png
+   - Assets/menu-tem.png
+   - Assets/menu-scene.png
+   - Assets/menu-aqi.png
+   - Assets/menu-device.png
+   - Assets/menu-history.png
+   - Assets/menu-setting1.png
+   - Assets/menu-setting2.png
+   - Assets/menu-tianqi.png
+  fonts:
+    - family: Hepworth
+      fonts:
+        - asset: Assets/fonts/Hepworth-regular-webfont.ttf
+        - asset: Assets/fonts/Hepworth-bold-webfont.ttf
+        - asset: Assets/fonts/Hepworth-italic-webfont.ttf

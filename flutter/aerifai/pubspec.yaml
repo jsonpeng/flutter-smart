@@ -1,0 +1,52 @@
+#set app name
+name: Aerifai
+description: An application for Aerifai
+dependencies:
+  flutter:
+    sdk: flutter
+#app static file setting
+flutter:
+  uses-material-design: true
+#add image to load
+  assets:
+   - Assets/aerifai.png
+   - Assets/aqi_50.png
+   - Assets/aqi_100.png
+   - Assets/aqi_150.png
+   - Assets/aqi_200.png
+   - Assets/aqi_300.png
+   - Assets/aqi_301.png
+   - Assets/home.png
+   - Assets/temperature5.png
+   - Assets/tianqi.png
+   - Assets/tianqi2.png
+   - Assets/all.png
+   - Assets/menu.png
+   - Assets/device_0.png
+   - Assets/device_255.png
+   - Assets/device_varified.png
+   - Assets/device_01.png
+   - Assets/device_02.png
+   - Assets/device_03.png
+   - Assets/device_04.png
+   - Assets/device_255.png
+   - Assets/device_switchstate_0.png
+   - Assets/device_switchstate_255.png
+   - Assets/device_07.png
+   - Assets/device-delete1.png
+   - Assets/device-delete2.png
+   - Assets/menu-tem.png
+   - Assets/menu-scene.png
+   - Assets/menu-aqi.png
+   - Assets/menu-device.png
+   - Assets/menu-history.png
+   - Assets/menu-setting1.png
+   - Assets/menu-setting2.png
+   - Assets/menu-tianqi.png
+#add font to load
+  fonts:
+    - family: Hepworth
+      fonts:
+        - asset: Assets/fonts/Hepworth-regular-webfont.ttf
+        - asset: Assets/fonts/Hepworth-bold-webfont.ttf
+        - asset: Assets/fonts/Hepworth-italic-webfont.ttf

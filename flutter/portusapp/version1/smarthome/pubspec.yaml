@@ -1,0 +1,10 @@
+name: smarthome
+description: A new flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+uses-material-design: true
+assets:
+  - Assets/sun.png
+  - Assets/circle.png

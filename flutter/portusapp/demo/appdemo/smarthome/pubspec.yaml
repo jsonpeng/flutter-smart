@@ -1,0 +1,5 @@
+name: smarthome
+description: A new flutter project.
+dependencies:
+  flutter:
+    sdk: flutter

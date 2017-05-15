@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/demo/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/flutterws/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/flutterws/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/flutterws/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/gen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/gen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/gen/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/httpjson/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/httpjson/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/httpjson/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/imageload/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/imageload/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/imageload/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/listdemo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/listdemo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/listdemo/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/myapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/myapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/myapp/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/smarthome/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/smarthome/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/smarthome/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/textalign/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/textalign/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appdemo/textalign/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/smarthome/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/smarthome/build" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/smarthome/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/version1/smarthome/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/version1/smarthome/build" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/version1/smarthome/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/version2/smartgateway/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/version2/smartgateway/build" />
+      <excludeFolder url="file://$MODULE_DIR$/portusapp/version2/smartgateway/packages" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="application" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
